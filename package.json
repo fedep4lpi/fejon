@@ -1,0 +1,28 @@
+{
+  "name": "fejon",
+  "version": "1.0.0",
+  "description": "axios but only with fetch api and response = response.data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedep4lpi/fejon.git"
+  },
+  "keywords": [
+    "fetch",
+    "json",
+    "axios",
+    "ajax",
+    "rest",
+    "restful",
+    "api"
+  ],
+  "author": "fedep4lpi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fedep4lpi/feon/issues"
+  },
+  "homepage": "https://github.com/fedep4lpi/feon#readme"
+}
