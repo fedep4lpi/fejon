@@ -56,6 +56,9 @@ const put = async (url, body) => {
     return res
 }
 
+/**
+ * @type {object}
+ */
 const fejon = {
     get: get,
     post: post,
