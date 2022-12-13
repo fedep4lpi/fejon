@@ -11,7 +11,7 @@ npm i fejon
 
 ## CDN
 ```html
-<script src="https://cdn.jsdelivr.net/npm/fejon"/>
+<script src="https://cdn.jsdelivr.net/npm/fejon"></script>
 ```
 
 ## Usage
