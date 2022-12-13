@@ -9,6 +9,11 @@ Use the package manager [npm](https://www.npmjs.com/package/fejon) to install fo
 npm i fejon
 ```
 
+## CDN
+```html
+<script src="https://cdn.jsdelivr.net/npm/fejon"/>
+```
+
 ## Usage
 
 ```javascript
