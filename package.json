@@ -1,6 +1,6 @@
 {
   "name": "fejon",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "axios but only with fetch api and response = response.data",
   "main": "index.js",
   "types": "./types/index.d.ts",
